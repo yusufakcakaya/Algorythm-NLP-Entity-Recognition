@@ -39,27 +39,23 @@ Algorythm-NLP-Entity-Recognition
 │
 │   
 │  
-│__ __ deployment              : pip environment
+│__ __ __ datasets                     : datasets for try
 │
-│__ __ static                  : static image file
+│__ __ 01.Data_exploration.ipynb       : get Retuters data from nltk
 |
-|__ __ templates               : templates for Flask
+|__ __ 02.I.E.Pipeline                 : get entity relations            
 |
-|__ __ Dockerfile              
-|
-│__ __ Procfile                : for Heroku
+│__ __ 03.B.K.G_using_NER.ipynb        : creating .csv for neo4j
 │
-│ 
-│__ README.md                  : explains the project
-│
-|
-│__ app.py                     : main file for flask
+│__ __ 04.neo4j.ipynb                  : .py version of neo4j 
 │  
-│__ data_cleaning.ipynb        : data cleaning file
+│__ __ KeatingDataset.csv              : .csv file for neo4j
 │
-│__ database.json              : main data .json
+|__ __ README.md                       : explains the project
+|
+│__ __ data.csv                        : .csv file for KeatingDataset.csv
 │                
-│__ games.db                   : flask database
+│__ __ requirements.txt                  
 │
 
 ```
