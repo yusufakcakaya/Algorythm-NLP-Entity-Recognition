@@ -12,7 +12,7 @@ This project aims to reveal the entity relations by randomly selecting data from
 
 **Named-entity Recognition :** (NER)is an information extraction that seeks to locate and classify named entities in text into pre-defined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc.
 
-![image](https://user-images.githubusercontent.com/46165841/150347262-1ae6a8fb-419d-4b89-9702-a133079eb22f.png)
+![Screenshot_from_2022-01-20_14-44-03](https://user-images.githubusercontent.com/46165841/150352785-25949723-acf8-48c6-989b-0e52b54f9a30.png)
 
 **Coreference Resolution :** Coreference resolution is high useful task which is refer to the same entity in a text. It is an important part for the NLP projects to understanding such as document summarization, question answering, and information extraction
 
@@ -69,9 +69,13 @@ Algorythm-NLP-Entity-Recognition
 
 Same visualisations:
 
-![newplot (1)](https://user-images.githubusercontent.com/46165841/147486469-4b8ce8a4-6011-4598-a5be-d1e2aebbf1bf.png)
+It shows relation between source and target.
 
-![newplot (2)](https://user-images.githubusercontent.com/46165841/147486500-7b51b3ac-bece-4df4-9168-94e00f277ca2.png)
+![schema](https://user-images.githubusercontent.com/46165841/150354203-1c737067-b88c-4c39-a474-c5c8a61a8d2a.png)
+
+We can see easily relations between entities.
+
+![nr](https://user-images.githubusercontent.com/46165841/150353958-1dd7a7c2-b714-405d-9ecc-7b054d709770.png)
 
 ## Collaborators
 
